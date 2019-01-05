@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Young's_matrix", "Young's_matrix\Young's_matrix.vcxproj", "{6FBBE955-DD63-459B-9028-D354DF86F982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBBE955-DD63-459B-9028-D354DF86F982}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6FBBE955-DD63-459B-9028-D354DF86F982}.Debug|Win32.Build.0 = Debug|Win32
+		{6FBBE955-DD63-459B-9028-D354DF86F982}.Release|Win32.ActiveCfg = Release|Win32
+		{6FBBE955-DD63-459B-9028-D354DF86F982}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
